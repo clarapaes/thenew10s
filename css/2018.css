@@ -1,0 +1,44 @@
+
+#musica1{
+	background-image: url("../html/fotos/bg4.png");
+	margin: 0;
+	width: 100%;
+	background-color: #39393A;
+	background-blend-mode: soft-light;
+}
+
+
+#musica2{
+	background-image: url("../html/fotos/bg3.png");
+	margin: 0;
+	width: 100%;
+	background-color: #39393A;
+	background-blend-mode: color-burn;
+	height: 100%;
+}
+
+
+#musica3{
+	background-image: url("../html/fotos/bg5.jpg");
+	margin: 0;
+	width: 100%;
+	background-color: #39393A;
+	background-blend-mode: exclusion;
+}
+
+#musica4{
+	background-image: url("../html/fotos/bg1.png");
+	margin: 0;
+	width: 100%;
+	background-color: #39393A;
+	background-blend-mode: lighten;
+	height: 100%;
+}
+
+#musica5{
+	background-image: url("../html/fotos/bg2.jpg");
+	margin: 0;
+	width: 100%;
+	background-color: #39393A;
+	background-blend-mode: overlay;
+}

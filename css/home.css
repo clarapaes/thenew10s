@@ -1,0 +1,35 @@
+@font-face {
+    src: url(fonts/Heavitas.ttf);
+    font-family: Heavitas;
+}
+
+body{
+	background-color: #39393A, url ("./fotos/wave.gif");
+
+}
+
+.description {
+	text-align: left;
+	font-family: Heavitas, sans-serif;
+	font-size: 35pt;
+	color:#F32F56;
+	text-align-last: right;
+	display: block;
+
+	padding: 6%;
+	padding-top: 15%;
+}
+
+#logo_cabeçalho {
+	padding-top: 15%;
+	padding-left: 15%;
+}
+
+
+.ano {
+	width: 100%;
+}
+
+.ano_cima {
+	padding-top: 10%;
+}
