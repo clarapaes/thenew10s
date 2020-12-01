@@ -4,8 +4,11 @@
 }
 
 body{
-	background-color: #39393A, url ("./fotos/wave.gif");
-
+	background-color: #3B3B3B;
+	background-image: url(../fotos/wave_2.gif);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: bottom; 
 }
 
 .description {
@@ -27,9 +30,19 @@ body{
 
 
 .ano {
-	width: 100%;
+	width: 80px;
 }
 
 .ano_cima {
 	padding-top: 10%;
 }
+
+.ano_baixo {
+	margin-top: 5%;
+	
+}
+
+footer {
+	padding-bottom: 100px;
+}
+

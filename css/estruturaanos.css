@@ -216,3 +216,7 @@ iframe {
 .container-fluid{
 	width: 100%;
 }
+
+footer {
+	height: 100%;
+}
